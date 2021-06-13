@@ -14,3 +14,7 @@ func Hello() {
 func Hi() {
 	fmt.Println("Hi, Mom")
 }
+
+func hiHood() {
+	fmt.Println("What'z up?")
+}
